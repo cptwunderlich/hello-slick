@@ -1,2 +1,4 @@
+Forked off https://github.com/slick/hello-slick as reproducer of https://github.com/slick/slick/issues/1355.
+
 This sample project is part of the Slick documentation.
 See https://scala-slick.org/docs/ for details.
